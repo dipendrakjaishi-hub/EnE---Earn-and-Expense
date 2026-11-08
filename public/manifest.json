@@ -1,0 +1,22 @@
+{
+  "name": "CrewPulse - Shift & Rota Tracking",
+  "short_name": "CrewPulse",
+  "description": "Shift-tracking and rota scheduling for field crews, hospitality, and cleaning teams.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
